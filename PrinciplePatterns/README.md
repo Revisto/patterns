@@ -1,3 +1,3 @@
 # Principle Patterns
 
-- [SOLID Principles](./SOLIDPrinciples/README.md)
+- [SOLID Principles](./SOLID/README.md)
