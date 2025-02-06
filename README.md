@@ -1,7 +1,7 @@
-# Software Engineering Patterns
+# Software Engineering Patterns 📝
 
 - [Principle Patterns](./PrinciplePatterns/README.md)
-
+- [Design Patterns](./DesignPatterns/README.md)
 
 ## How to Add New Patterns
 1. Create a new directory for your pattern
