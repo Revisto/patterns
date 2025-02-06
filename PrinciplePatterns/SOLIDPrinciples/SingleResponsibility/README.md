@@ -4,7 +4,10 @@
 Helps to write decoupled code, where each class has its own job.
 
 ## Real Life Example 🏪
-A kitchen where the chef cooks, a waiter serves, and a cashier handles payments. Each role has its own distinct job.
+A kitchen where:
+- Chef only cooks
+- Waiter only serves
+- Cashier only handles money
 
 ## Examples in Frameworks / Workspaces 💻
 -
