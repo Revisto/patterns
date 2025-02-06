@@ -1,4 +1,4 @@
-# Single Responsibility Principle (SRP)
+# Single Responsibility Principle (SRP) 📝
 
 ## Goal 🎯
 Helps to write decoupled code, where each class has its own job.
